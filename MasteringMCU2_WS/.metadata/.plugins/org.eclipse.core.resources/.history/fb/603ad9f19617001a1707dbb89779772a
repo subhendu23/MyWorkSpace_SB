@@ -1,0 +1,17 @@
+#include "stm32f4xx_hal.h"
+#include "main.h"
+void SystemClockConfig();
+
+int main(){
+
+	HAL_Init();
+	// when you need special clock setting
+	SystemClockConfig();
+
+}
+
+void SystemClockConfig()
+{
+
+
+}
