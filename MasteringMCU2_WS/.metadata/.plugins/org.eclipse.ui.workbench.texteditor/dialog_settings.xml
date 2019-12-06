@@ -2,12 +2,13 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="USART2_IRQHandler" key="selection"/>
+		<item value="UART_HandleTypeDef" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="UART_HandleTypeDef"/>
 			<item value="USART2_IRQHandler"/>
 			<item value="UART2_example"/>
 			<item value="GPIO_Alternate_function_selection"/>
@@ -15,7 +16,6 @@
 			<item value="HAL_StatusTypeDef"/>
 			<item value="UART_STO"/>
 			<item value="UART_Word_Length"/>
-			<item value="huart2"/>
 		</list>
 		<list key="replacehistory">
 		</list>
